@@ -84,7 +84,9 @@ body{
 #main{
     margin-top: 119px;
     background: url('images/mapblur.png');
+    background-repeat: repeat-x;
     background-repeat: repeat-y;
+    background-size: cover;
     
 }
 
